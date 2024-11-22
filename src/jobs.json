@@ -1,0 +1,298 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Vue Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Junior Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our fast-paced web development team and help build user-friendly websites. Ideal for those starting their career in web development.",
+      "location": "San Francisco, CA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "TechWave",
+        "description": "TechWave is a cutting-edge tech company focused on delivering innovative digital solutions.",
+        "contactEmail": "hr@techwave.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Back-End Developer",
+      "type": "Full-Time",
+      "description": "We are looking for an experienced Back-End Developer to join our growing team. You will be working on server-side logic and database management.",
+      "location": "Los Angeles, CA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Innovative Solutions",
+        "description": "Innovative Solutions is dedicated to developing cutting-edge applications and technologies for various industries.",
+        "contactEmail": "hr@innovativesolutions.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "We are looking for a Data Scientist to analyze and interpret complex data to help inform business decisions.",
+      "location": "New York, NY",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "DataWorks",
+        "description": "DataWorks is a leading data analytics firm providing insights to top companies around the world.",
+        "contactEmail": "careers@dataworks.com",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Lead the development of products from concept to delivery. Work closely with design, engineering, and marketing teams.",
+      "location": "Austin, TX",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "TechHub",
+        "description": "TechHub is an innovative tech startup that develops AI-based solutions for businesses.",
+        "contactEmail": "jobs@techhub.com",
+        "contactPhone": "555-555-1234"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Mobile App Developer",
+      "type": "Freelance",
+      "description": "Looking for a freelance Mobile App Developer to build mobile applications on iOS and Android platforms.",
+      "location": "Remote",
+      "salary": "$60K - $80K",
+      "company": {
+        "name": "AppWorks",
+        "description": "AppWorks is a mobile development agency helping businesses create high-quality mobile apps.",
+        "contactEmail": "contact@appworks.com",
+        "contactPhone": "555-321-4321"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Marketing Specialist",
+      "type": "Full-Time",
+      "description": "Join our marketing team to help develop and execute strategies for online and offline marketing campaigns.",
+      "location": "Seattle, WA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "GrowthX",
+        "description": "GrowthX is a fast-growing marketing firm specializing in digital marketing strategies.",
+        "contactEmail": "hr@growthx.com",
+        "contactPhone": "555-123-7890"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Cloud Solutions Architect",
+      "type": "Full-Time",
+      "description": "As a Cloud Solutions Architect, you will design and implement cloud-based solutions to meet client needs.",
+      "location": "Chicago, IL",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "CloudWorks",
+        "description": "CloudWorks is a leader in cloud computing solutions, helping enterprises optimize their IT infrastructure.",
+        "contactEmail": "recruitment@cloudworks.com",
+        "contactPhone": "555-654-9876"
+      }
+    },
+    {
+      "id": "9",
+      "title": "SEO Specialist",
+      "type": "Part-Time",
+      "description": "Optimize web content and marketing strategies for search engines to improve the ranking of client websites.",
+      "location": "Denver, CO",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "WebOptimize",
+        "description": "WebOptimize is a digital marketing agency specializing in SEO, PPC, and content marketing.",
+        "contactEmail": "jobs@weboptimize.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Graphic Designer",
+      "type": "Freelance",
+      "description": "Freelance graphic designer required to create visual content for digital marketing campaigns and branding.",
+      "location": "Remote",
+      "salary": "$45K - $55K",
+      "company": {
+        "name": "CreativeForce",
+        "description": "CreativeForce is a design agency focused on providing innovative solutions for businesses and startups.",
+        "contactEmail": "contact@creativeforce.com",
+        "contactPhone": "555-789-1234"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Java Developer",
+      "type": "Full-Time",
+      "description": "Seeking an experienced Java Developer to design, develop, and maintain Java applications and systems.",
+      "location": "Portland, OR",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Techify",
+        "description": "Techify is a software development company creating custom solutions for clients across industries.",
+        "contactEmail": "careers@techify.com",
+        "contactPhone": "555-112-2334"
+      }
+    },
+    {
+      "id": "12",
+      "title": "System Administrator",
+      "type": "Full-Time",
+      "description": "Manage and support IT infrastructure including servers, networks, and databases for internal and external clients.",
+      "location": "San Diego, CA",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "Infratech",
+        "description": "Infratech specializes in IT infrastructure management, ensuring seamless business operations.",
+        "contactEmail": "hr@infratech.com",
+        "contactPhone": "555-678-2345"
+      }
+    },
+    {
+      "id": "13",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Looking for a DevOps Engineer to automate infrastructure and improve deployment pipelines for software applications.",
+      "location": "Washington, D.C.",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "TechElevate",
+        "description": "TechElevate is a technology solutions provider specializing in DevOps, cloud services, and automation.",
+        "contactEmail": "careers@techelevate.com",
+        "contactPhone": "555-321-6547"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Content Writer",
+      "type": "Part-Time",
+      "description": "Create high-quality written content for blogs, social media, and marketing materials.",
+      "location": "Remote",
+      "salary": "$30K - $40K",
+      "company": {
+        "name": "ContentPro",
+        "description": "ContentPro is a content marketing agency providing services to businesses of all sizes.",
+        "contactEmail": "hr@contentpro.com",
+        "contactPhone": "555-234-8901"
+      }
+    },
+    {
+      "id": "15",
+      "title": "UX/UI Designer",
+      "type": "Full-Time",
+      "description": "Design and improve the user interface and user experience for web applications and mobile apps.",
+      "location": "Miami, FL",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "DesignHub",
+        "description": "DesignHub is a creative agency focused on crafting exceptional user experiences for websites and apps.",
+        "contactEmail": "careers@designhub.com",
+        "contactPhone": "555-987-1234"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Sales Manager",
+      "type": "Full-Time",
+      "description": "Lead the sales team to drive revenue growth and expand the customer base for the company.",
+      "location": "Dallas, TX",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "SalesForce",
+        "description": "SalesForce is a global leader in CRM solutions, helping companies connect with their customers more effectively.",
+        "contactEmail": "sales@salesforce.com",
+        "contactPhone": "555-222-5555"
+      }
+    },
+    {
+      "id": "17",
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "Provide technical support to employees and troubleshoot hardware and software issues.",
+      "location": "Phoenix, AZ",
+      "salary": "$45K - $55K",
+      "company": {
+        "name": "ITWorks",
+        "description": "ITWorks is a leading IT support provider helping businesses manage their IT systems and infrastructure.",
+        "contactEmail": "support@itworks.com",
+        "contactPhone": "555-555-9876"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Cloud Developer",
+      "type": "Full-Time",
+      "description": "Develop and maintain cloud-based applications and services to meet client needs.",
+      "location": "Chicago, IL",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "CloudTech",
+        "description": "CloudTech offers enterprise-level cloud services to businesses around the world.",
+        "contactEmail": "careers@cloudtech.com",
+        "contactPhone": "555-456-1234"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Business Analyst",
+      "type": "Freelance",
+      "description": "Analyze business processes and identify areas for improvement to optimize efficiency.",
+      "location": "Remote",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "BizConsult",
+        "description": "BizConsult helps businesses improve their processes and performance through data-driven insights.",
+        "contactEmail": "hr@bizconsult.com",
+        "contactPhone": "555-876-6543"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Game Developer",
+      "type": "Full-Time",
+      "description": "Develop and design video games, ensuring a high-quality gaming experience.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "GameTech",
+        "description": "GameTech creates innovative and interactive video games for all platforms.",
+        "contactEmail": "careers@gametech.com",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "6955",
+      "title": "Kennan Madden",
+      "type": "Part-Time",
+      "description": "Iste nisi corrupti ",
+      "salary": "$90K - $100K",
+      "location": "Aliquip elit distin",
+      "company": {
+        "name": "Warren and Rogers Associates",
+        "description": "Sit non officiis nul",
+        "contactEmail": "jinom@mailinator.com",
+        "contactPhone": "+1 (561) 823-8587"
+      }
+    }
+  ]
+}
